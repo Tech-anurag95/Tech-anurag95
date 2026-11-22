@@ -9,7 +9,12 @@ Strong in DSA, data analytics, and clean, working code.
 <p align="center">
   <a href="https://www.linkedin.com/in/anuragdubey1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dubeyanurag7991@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="Resume.pdf"><img src="https://img.shields.io/badge/Download-Resume-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
   <a href="https://www.instagram.com/anurag._.34"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tech-anurag95&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -51,11 +56,14 @@ Strong in DSA, data analytics, and clean, working code.
 
 ---
 
-## 🎯 Currently
+## 🌱 Skills I'm Learning
 
-- 🔨 Building new Python projects <!-- name the one you're working on -->
-- 🧠 Practicing DSA and competitive problem solving
-- 📈 Sharpening data analytics skills (Pandas, SQL, Power BI)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-in_progress-orange?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-in_progress-orange?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-in_progress-orange?style=flat-square)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-in_progress-orange?style=flat-square)
+
+---
 
 ## 🤝 Open To
 
