@@ -9,7 +9,6 @@ Strong in DSA, data analytics, and clean, working code.
 <p align="center">
   <a href="https://www.linkedin.com/in/anuragdubey1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dubeyanurag7991@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="Resume.pdf"><img src="https://img.shields.io/badge/Download-Resume-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
   <a href="https://www.instagram.com/anurag._.34"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
