@@ -14,17 +14,7 @@ Strong in DSA, data analytics, and clean, working code.
 
 ---
 
-## 🚀 Featured Project
-
-### [Project Name](https://github.com/Tech-anurag95/REPO-NAME)
-One line on the problem it solves and who it's for.
-
-- **Stack:** Python · <!-- framework, DB, APIs -->
-- **Impact:** <!-- a real metric: speed-up, accuracy, users, dataset size -->
-- **Highlights:** <!-- 2-3 standout features -->
-- 🔗 [Live demo](#) · 💻 [Source](https://github.com/Tech-anurag95/REPO-NAME)
-
-## 📌 More Projects
+## 📌 Projects
 
 | Project | What it does | Tech |
 |---|---|---|
