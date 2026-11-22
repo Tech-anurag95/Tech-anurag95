@@ -14,16 +14,6 @@ Strong in DSA, data analytics, and clean, working code.
 
 ---
 
-## 📌 Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| [**Project Name**](https://github.com/Tech-anurag95/REPO) | One line: problem solved + result | Python, Pandas |
-| [**Project Name**](https://github.com/Tech-anurag95/REPO) | One line: problem solved + result | Python, SQL |
-| [**Project Name**](https://github.com/Tech-anurag95/REPO) | One line: problem solved + result | C++, DSA |
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:** &nbsp;
@@ -71,3 +61,9 @@ Strong in DSA, data analytics, and clean, working code.
 
 Internships and entry-level roles in **Software Development / Data**, plus collaborations on meaningful projects.
 📫 Reach me at **dubeyanurag7991@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/anuragdubey1).
+
+---
+
+## 💬 Quote
+
+<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
